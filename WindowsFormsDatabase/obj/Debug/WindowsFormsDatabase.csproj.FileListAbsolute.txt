@@ -1,0 +1,12 @@
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\CatsAndDogs.mdf
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\CatsAndDogs_log.ldf
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\WindowsFormsDatabase.exe.config
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\WindowsFormsDatabase.exe
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\WindowsFormsDatabase.pdb
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.csprojAssemblyReference.cache
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.Form1.resources
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.Properties.Resources.resources
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.csproj.GenerateResource.cache
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.exe
+C:\Users\Zupaman\source\repos\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.pdb
